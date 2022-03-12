@@ -1,4 +1,4 @@
 # Snake-Game
 
 It's a traditional snake game.
-![Alt text](/relative/path/to/snake.PNG?raw=true "Optional Title")
+![Alt text](https://github.com/shubhoc47/Snake-Game/blob/main/Snake-Screen.PNG "Optional title")
